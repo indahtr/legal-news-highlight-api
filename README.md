@@ -95,7 +95,7 @@ The test results indicate that the API responds correctly with a **200 OK** stat
 demonstrating that the summarization pipeline and API integration function as expected.
 
 ### Team
-Ni Komang Vaniya Apriandani (2205551019)
-Pande Komang Indah Triroshanti (2205551053)
-Sinta Purnama Dewi (2205551100)
+- Ni Komang Vaniya Apriandani (2205551019)
+- Pande Komang Indah Triroshanti (2205551053)
+- Sinta Purnama Dewi (2205551100)
 
